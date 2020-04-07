@@ -6,16 +6,16 @@ Quickly and easily start a Next.js project.
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
-- [Express] (https://expressjs.com/)
+- [Express](https://expressjs.com/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
-- [Jest] (https://jestjs.io/)
-- [React-Testing-Library] (https://testing-library.com)
-- [supertest] (https://github.com/visionmedia/supertest#readme)
+- [Jest](https://jestjs.io/)
+- [React-Testing-Library](https://testing-library.com)
+- [supertest](https://github.com/visionmedia/supertest#readme)
 - [ESLint](https://eslint.org/)
 - [Babel](https://babeljs.io/)
-- [Standard] (https://standardjs.com/)
-- [Snazzy] (https://github.com/standard/snazzy)
-- [Sass] (https://github.com/sass/dart-sass)
+- [Standard](https://standardjs.com/)
+- [Snazzy](https://github.com/standard/snazzy)
+- [Sass](https://github.com/sass/dart-sass)
 
 ## File Structure
 
