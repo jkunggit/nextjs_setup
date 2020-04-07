@@ -30,11 +30,6 @@ describe('server', () => {
     expect(response.status).toBe(200)
   })
 
-  it('throws a http error', async () => {
-    const response = await request.get('/')
-    expect(response.status).toBe(200)
-  })
-
   // close the http server connection else it will hang
   afterAll((done) => {
     httpServer.close(done)
