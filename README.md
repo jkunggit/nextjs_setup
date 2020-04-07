@@ -64,8 +64,10 @@ $ cd to project directory
 $ ```npm install``` all the dependencies
 $ ```npm run dev``` to start the local server
 ```
+## deployment preview:
+https://nextjs-setup.now.sh/
 
 ## Recommend Glogal packages 
-$ [pm2](https://www.npmjs.com/package/pm2)
-$ [nodemon](https://www.npmjs.com/package/nodemon)
-$ [now](https://www.npmjs.com/package/now)
+- [pm2](https://www.npmjs.com/package/pm2)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [now](https://www.npmjs.com/package/now)
