@@ -29,7 +29,6 @@ project/
 ├── jest.config.js
 ├── next.config.js
 ├── nodemon.json
-├── now.json
 ├── README.md
 ├── __mocks__/
 ├── server/
@@ -67,6 +66,6 @@ $ ```npm run dev``` to start the local server
 ```
 
 ## Recommend Glogal packages 
-$ [pm2] (https://www.npmjs.com/package/pm2)
-$ [nodemon] (https://www.npmjs.com/package/nodemon)
-$ [now] (https://www.npmjs.com/package/now)
+$ [pm2](https://www.npmjs.com/package/pm2)
+$ [nodemon](https://www.npmjs.com/package/nodemon)
+$ [now](https://www.npmjs.com/package/now)
