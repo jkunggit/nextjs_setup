@@ -61,10 +61,10 @@ project/
 ## Usage
 
 
-$ clone the repo
-$ cd to project directory
-$ ```npm install``` all the dependencies
-$ ```npm run dev``` to start the local server
+- clone the repo
+- cd to project directory
+- ```npm install``` all the dependencies
+- ```npm run dev``` to start the local server
 
 ## deployment preview:
 https://nextjs-setup.now.sh/
