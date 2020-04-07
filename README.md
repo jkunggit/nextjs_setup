@@ -36,6 +36,7 @@ project/
 │   ├── routes
 │       ├── index.js
 │   ├── __tests__/
+│       ├── server.test.js
 ├── pages/
 │   ├── index.js
 │   ├── _app.js
@@ -44,6 +45,7 @@ project/
 │   ├── dynamic/
 │       ├── [id].js
 │   ├── __tests__/
+│       ├── index.test.js
 ├── components/
 │   ├── Footer.jsx
 │   ├── Header.jsx
