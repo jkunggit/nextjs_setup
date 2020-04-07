@@ -1,6 +1,6 @@
-# nextjs-setup
+# nextjs-setup-with-custom-express-server
 
-Quickly and easily start a Next.js project.
+Quickly and easily start a Next.js with custom express server project.
 
 ## Technologies
 
