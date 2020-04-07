@@ -10,7 +10,7 @@ Quickly and easily start a Next.js project.
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Jest](https://jestjs.io/)
 - [React-Testing-Library](https://testing-library.com)
-- [supertest](https://github.com/visionmedia/supertest#readme)
+- [Supertest](https://github.com/visionmedia/supertest#readme)
 - [ESLint](https://eslint.org/)
 - [Babel](https://babeljs.io/)
 - [Standard](https://standardjs.com/)
