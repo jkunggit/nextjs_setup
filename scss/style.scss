@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  .test{
+    background: red;
+
+    padding: 5px;
+  }
+}
+
+.brandContainer{
+  display: flex;
+  align-items: center;
+  .brandName{
+    padding: 5px;
+  }
+}
