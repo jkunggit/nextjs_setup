@@ -37,6 +37,7 @@
     "nextdev": "next",
     "build": "next build",
     "start": "next start",
+    "now-start": "node ./server",
     "dev": "nodemon server/index.js",
     "lint": "standard --verbose | snazzy",
     "test": "jest",
